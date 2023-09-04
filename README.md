@@ -1,4 +1,3 @@
-
 # Resumos Git e GitHub
 
 Repositorios para armazemanar resumos sobre Git e GitHub do curso Versionamento de Codigo com Git e GitHub da [Digital Innovaction One](https://www.dio.me)
